@@ -1,0 +1,48 @@
+body{
+	background-color:white;
+}
+h1{
+	text-align:center;
+}
+div.box{
+	background-color:green;
+	width:230px;
+	height:30px;
+	padding:10px;
+	margin:10px;
+	display:inline-block;
+	font-size:22px;
+	color:white;
+}
+div.box:hover{
+	background-color:orange;
+	font-weight:bold;
+}
+a{
+	text-decoration:none;
+}
+div.outer{
+	text-align:center;
+}
+a{
+	color:black;
+}
+a:hover{
+	text-decoration:underline;
+	color:blue;
+}
+table.styled{
+	border-spacing:6px;
+}
+#smallTextBox{
+	width:30px;
+}
+tr, th{
+	padding:10px;
+}
+tr, td{
+	padding:10px;
+}
+table{
+	border-collapse:collapse;
+}

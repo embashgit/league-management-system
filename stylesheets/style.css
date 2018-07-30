@@ -1,0 +1,46 @@
+body{
+	background-color:white;
+}
+h1{
+	text-align:center;
+}
+div.smallBox{
+	width:200px;
+	height:20px;
+	background-color:black;
+	margin:20px;
+	padding:10px;
+	display:inline-block;
+	color:white;
+}
+div.smallBox:hover{
+	background-color:blue;
+	font-weight:bold;
+}
+div.marqueeBox{
+	background-color:#8B4500;
+	color:white;
+	width:500px;
+	height:300px;
+	display:inline-block;
+	margin:10px;
+}
+div.outer{
+	display:block;
+	margin:10px;
+}
+th, td{
+	padding:10px;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+a:hover{
+	color:blue;
+	text-decoration:underline;
+}
+td a{
+	display:block;
+	padding:10px;
+}
